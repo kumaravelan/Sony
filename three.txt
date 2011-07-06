@@ -1,1 +1,2 @@
-three
+When you use pull, Git tries to automatically do your work for you. It is context sensitive, so Git will merge any pulled commits into the branch you are currently working in. One thing to keep in mind is that pull automatically merges the commits without letting you review them first. If you don’t closely manage your branches you may run into frequent conflicts.
+Fetch/Merge
